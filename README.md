@@ -1,25 +1,25 @@
-# Realtime Chat Web App
+# Realtime Chat App
 
 This project is a real-time chat web application built using Node.js, Express.js, and Socket.io. It allows users to join chat rooms and communicate with each other in real-time.
 
 ## Dependencies
 
-- **bad-words**:
+- `bad-words` :
   A library that helps filter out offensive words from messages.
 
-- **express**:
+- `express` :
   A fast and minimalistic web framework for Node.js that provides the server-side logic for the application.
 
-- **socket.io**:
+- `socket.io` :
   A library that enables real-time, bidirectional communication between the web clients and the server using WebSockets.
 
-- **Mustache**:
+- `Mustache` :
   A logic-less template syntax used for rendering dynamic content on the client-side.
 
-- **Moment**:
+- `Moment` :
   A library for handling dates and times in JavaScript, which can be useful for formatting timestamps in the chat app.
 
-- **qs**:
+- `qs` :
   A library for parsing and stringifying URL query strings, which can be helpful for handling URL parameters and queries.
 
 ## Setup
